@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="marcusungarette Github Stats" src="https://github-readme-stats.marcusungarette.vercel.app/api?username=marcusungarette&show_icons=true&hide_border=true" />
+[![Top Langs](https://https://marcusungarette.vercel.app/api/top-langs/?username=marcusungarette&layout=compact)](https://github.com/marcusungarette/marcusungarette)
 
 [website]: https://devungarette.netlify.app/
 [twitter]: https://twitter.com/UngaretteMarcus
