@@ -39,7 +39,7 @@
 
 ---
 
-[![Top Langs](https://https://marcusungarette.vercel.app/api/top-langs/?username=marcusungarette&layout=compact)](https://github.com/marcusungarette/marcusungarette)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusungarette)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://devungarette.netlify.app/
 [twitter]: https://twitter.com/UngaretteMarcus
