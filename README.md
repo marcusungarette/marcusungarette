@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Web Application] with my brother (He's a designer) !
 - 🌱 I’m currently mastering my Front-End (Javascript Stack) skills 🤣
 - 👯 I’m looking to collaborate with other projects
-- 🥅 2020 Goals: Learn more about Cloud Computing
+- 🥅 2020 Goals: Learn more about Typescript
 - ⚡ Fun fact: I use Facebook technology every day (ReactJS/React Native) but avoided Facebook social media
 
 ### Connect with me:
