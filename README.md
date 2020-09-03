@@ -1,11 +1,11 @@
 ### Hi there, I'm Marcus Ungarette [website] 👋
 
 ## I'm a Developer, and business manager 
-- 🔭 I’m currently working on a [Web Application] with my brother (He's a designer) !
-- 🌱 I’m currently mastering my Front-End (Javascript Stack) skills 🤣
+- 🔭 I’m currently working on a GraphQL API (oh boy, that escaleted quickly!)
+- 🌱 I’m currently mastering my Back-End (Javascript Stack) skills 🤣
 - 👯 I’m looking to collaborate with other projects
 - 🥅 2020 Goals: Learn more about GraphQL
-- ⚡ Fun fact: I use Facebook technology every day (ReactJS/React Native) but avoided Facebook social media
+- ⚡ Fun fact: I use Facebook technology every day but avoided Facebook social media
 
 ### Connect with me:
 
