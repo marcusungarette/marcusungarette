@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a GraphQL/Typescript/NestJS API (oh boy, that escaleted quickly!)
 - 🌱 I’m currently mastering my Back-End (Javascript Stack) skills 🤣
 - 👯 I’m looking to collaborate with other projects
-- 🥅 2021 Goals: Learn more about NextJS (I really love front-end)
+- 🥅 2021 Goals: Learn more about Patterns/Microservices/Deploys and Best practices
 - ⚡ Fun fact: I use Facebook technology every day but avoided Facebook social media
 
 ### Connect with me:
